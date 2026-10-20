@@ -1,7 +1,7 @@
 {
   "id": "e2e-check",
   "name": "E2E Check",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": { "graphy": ">=0.1.0", "os": ["win32", "darwin", "linux"] },
   "description": "A GRAPHY-Next plugin created from the template.",
   "author": "e2e check",
