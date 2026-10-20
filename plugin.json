@@ -1,11 +1,11 @@
 {
-  "id": "my-plugin",
-  "name": "My Plugin",
+  "id": "e2e-check",
+  "name": "E2E Check",
   "version": "0.1.0",
   "engines": { "graphy": ">=0.1.0", "os": ["win32", "darwin", "linux"] },
   "description": "A GRAPHY-Next plugin created from the template.",
-  "author": "Your Name",
-  "homepage": "https://github.com/OWNER/REPO",
+  "author": "e2e check",
+  "homepage": "https://github.com/tatsunidas/graphy-next-plugin-e2e-check",
   "license": "MIT",
   "contributes": ["viewer2d.menu", "mainscreen.menu"],
   "ui": "ui.js"
